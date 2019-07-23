@@ -6,5 +6,5 @@ Then user should be in home page
 
 Examples:
 |username||password|
-|"lavanya"||"password"|
+|"Lalitha"||"Password123"|
 |"Lalitha"||"Password123"|
